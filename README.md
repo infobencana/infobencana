@@ -35,7 +35,7 @@ We believe that technology plays a crucial role in helping communities cope with
 | ☁️ Backend  |   [Backend Repository](https://github.com/infobencana/backend.git) |
 
 
-## How to Run the Project
+## ⚙️How to Run the Project
 
 To set up the project and run it using Docker Compose, follow these steps:
 
