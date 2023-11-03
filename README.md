@@ -22,10 +22,10 @@ We believe that technology plays a crucial role in helping communities cope with
 
 |            Member           | Participants ID |        Contacts        |
 | :-------------------------: | :--------: | :-----------------------------------------------------------------------------------------------------------------: |
-| M Yardan Aqiella        | GG3FSGP0385 |           [LinkedIn](https://www.linkedin.com/in/edwin-mahendra/) or [Github](https://github.com/edwinmahendra)           |
-| Afrinaldi    | GG3FSGP0243 |  [LinkedIn](https://www.linkedin.com/in/adiatmaja/) or [Github](https://github.com/adiatmaja)  |
-| Zikri Kholifah Nur     | GG3FSUP0150 |   [LinkedIn](https://www.linkedin.com/in/zikrikn/) or [Github](https://github.com/zikrikn)            |
-| Ahmad Indra Nurfauzi | GG3FSGP0249 |  [LinkedIn](https://www.linkedin.com/in/fikriiardiansyahh/) or [Github](https://github.com/fikriiardiansyahh) |
+| M Yardan Aqiella        | GG3FSGP0385 |           [LinkedIn](https://www.linkedin.com/in/yardanaqiella/)           |
+| Afrinaldi    | GG3FSGP0243 |  [LinkedIn](https://www.linkedin.com/in/afrinaldi-43a086224/)  |
+| Zikri Kholifah Nur     | GG3FSUP0150 |   [LinkedIn](https://www.linkedin.com/in/zikrikn/)          |
+| Ahmad Indra Nurfauzi | GG3FSGP0249 |  [LinkedIn](https://www.linkedin.com/in/ahmad-indra-nurfauzi/) |
 
 ## 🖥️Repositories
 
