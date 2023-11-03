@@ -31,8 +31,8 @@ We believe that technology plays a crucial role in helping communities cope with
 
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
-| 🤖 Frontend  |  [Frontend Repository](https://github.com/infobencana/frontend.git) |
-| ☁️ Backend  |   [Backend Repository](https://github.com/infobencana/backend.git) |
+| 🪟 Frontend  |  [Frontend Repository](https://github.com/infobencana/frontend.git) |
+| 🎚️ Backend  |   [Backend Repository](https://github.com/infobencana/backend.git) |
 
 
 ## ⚙️How to Run the Project
