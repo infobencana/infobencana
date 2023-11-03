@@ -4,7 +4,7 @@ Infobencana is a platform aimed at providing accurate, timely, and integrated na
 
 We believe that technology plays a crucial role in helping communities cope with these challenges. Infobencana is our effort to provide informative features, such as disaster maps, lists of missing persons due to disasters, and the latest reports on ongoing natural disasters. We also provide a space for users to discuss, provide input, and facilitate access to donation information for those affected by disasters. Infobencana is dedicated to helping others. We are confident that with accurate information and easy access to the necessary resources, we can work together to overcome natural disaster challenges and ensure the safety of the Indonesian community.
 
-<br />
+<br/>
 ## 📑Table of Contents
 - [👊The Team](#the-team)
 - [🖥️Repositories](#repositories)
@@ -16,7 +16,7 @@ We believe that technology plays a crucial role in helping communities cope with
     - [Step 5: Access the Application](#step-5-access-the-application)
     - [Step 6: Stop Docker Compose](#step-6-stop-docker-compose)
 
-<br />
+<br/>
 ## 👊The Team
 
 |            Member           | Participants ID |        Contacts        |
@@ -26,7 +26,7 @@ We believe that technology plays a crucial role in helping communities cope with
 | Zikri Kholifah Nur     | GG3FSUP0150 |   [LinkedIn](https://www.linkedin.com/in/zikrikn/)           |
 | Ahmad Indra Nurfauzi | GG3FSGP0249 |  [LinkedIn](https://www.linkedin.com/in/ahmad-indra-nurfauzi/) |
 
-<br />
+<br/>
 ## 🖥️Repositories
 
 |   Learning Paths   |                                Link                                |
@@ -35,7 +35,7 @@ We believe that technology plays a crucial role in helping communities cope with
 | ☁️ Backend  |   [Backend Repository](https://github.com/infobencana/backend.git) |
 
 
-<br />
+<br/>
 ## ⚙️How to Run the Project
 
 To set up the project and run it using Docker Compose, follow these steps:
