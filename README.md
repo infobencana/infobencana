@@ -4,7 +4,7 @@ Infobencana is a platform aimed at providing accurate, timely, and integrated na
 
 We believe that technology plays a crucial role in helping communities cope with these challenges. Infobencana is our effort to provide informative features, such as disaster maps, lists of missing persons due to disasters, and the latest reports on ongoing natural disasters. We also provide a space for users to discuss, provide input, and facilitate access to donation information for those affected by disasters. Infobencana is dedicated to helping others. We are confident that with accurate information and easy access to the necessary resources, we can work together to overcome natural disaster challenges and ensure the safety of the Indonesian community.
 
-# 📲Preview of InfoBencana - GIGIH 3.0 Capstone Project 2023
+## 📲Preview of InfoBencana - GIGIH 3.0 Capstone Project 2023
   ![InfoBencana Project](image.png)
   
 ## 📑Table of Contents
