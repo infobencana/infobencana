@@ -56,9 +56,9 @@ git clone https://github.com/infobencana/frontend.git
 git clone https://github.com/infobencana/backend.git
 ```
 
-> Note: We have set environment variables in the repository, so you can use them directly without editing the variables.
-
 ### Step 3: Update the Docker Compose Configuration
+
+> Note: We have set environment variables in the repository, so you can use them directly without editing the variables.
 
 Edit the `docker-compose.yaml` file to configure the backend and frontend services. Make sure to update the environment variables according to your specific requirements.
 
